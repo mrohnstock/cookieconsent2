@@ -1,0 +1,28 @@
+{
+    "name": "mrohnstock/cookieconsent2",
+    "description": "Silktide's cookie consent plugin v2",
+    "type": "component",
+    "homepage": "https://github.com/silktide/cookieconsent2",
+    "license": "MIT",
+    "keywords": [
+        "cookieconsent",
+        "cookie",
+        "law"
+    ],
+    "author": {
+        "url": "https://silktide.com",
+        "name": "Silktide Ltd."
+    },
+    "extra": {
+        "component": {
+            "scripts": [
+                "js/cookieconsent.min.js"
+            ],
+            "files": [
+                "js/cookieconsent.min.js",
+                "css/logo.png",
+                "css/*.css"
+            ]
+        }
+    }
+}
